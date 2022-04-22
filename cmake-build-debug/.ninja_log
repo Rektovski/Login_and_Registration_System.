@@ -1,0 +1,13 @@
+# ninja log v5
+1	643	1650633275353734939	CMakeFiles/untitled.dir/main.cpp.o	a7e39c429ec03e99
+643	762	1650633275473731613	untitled	70eda2c3eb1be2d8
+0	679	1650633398078839575	CMakeFiles/Login_and_Registration_System..dir/main.cpp.o	31be3b234c71d3e1
+679	786	1650633398186837410	Login_and_Registration_System.	421de4d9f9329d76
+1	2236	1650634673043187217	CMakeFiles/Login_and_Registration_System..dir/main.cpp.o	31be3b234c71d3e1
+2237	2340	1650634673147197419	Login_and_Registration_System.	421de4d9f9329d76
+1	2056	1650634702073977144	CMakeFiles/Login_and_Registration_System..dir/main.cpp.o	31be3b234c71d3e1
+2056	2152	1650634702165985804	Login_and_Registration_System.	421de4d9f9329d76
+1	1915	1650634772042964738	CMakeFiles/Login_and_Registration_System..dir/main.cpp.o	31be3b234c71d3e1
+1915	2009	1650634772134962022	Login_and_Registration_System.	421de4d9f9329d76
+2	1950	1650634825913865481	CMakeFiles/Login_and_Registration_System..dir/main.cpp.o	31be3b234c71d3e1
+1950	2042	1650634826005864389	Login_and_Registration_System.	421de4d9f9329d76
